@@ -1,4 +1,3 @@
-# <b>JAIRUS TEYIE AKOKHO.</b>
 
 <html lang="en">
 <head>
