@@ -1,5 +1,5 @@
 # assignment_week2
-
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,8 +40,8 @@
        and exiticing updates and news!<br>
                             <b>THANK YOU ALL!</b>    
     </p>  
-    
+    <P>
     <button type="button= "https://www.operamini.com" >Go to website</button> 
-
+    </P>
 </body>
 </html>
