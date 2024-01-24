@@ -37,7 +37,6 @@
       For more information visit our webste at <a href="https://www.operamini.com">www.operamini.com</a> for references<br>
        and exiticing updates and news!<br>
                             <b>THANK YOU ALL!</b>  
-<button type="button= "https://www.operamini.com" >Go to website</button>
                             
     </p>  
     
