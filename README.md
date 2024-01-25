@@ -34,7 +34,7 @@
        
     </div>
         
-      For more information visit our webste at <a href="https://www.operamini.com">www.operamini.com</a> for references<br>
+      For more information visit our webste at <a href="https://www.google.com/search?client=firefox-b-d&q=opera+mini">www.operamini.com</a> for references<br>
        and exiticing updates and news!<br>
                             <b>THANK YOU ALL!</b>  
                             
